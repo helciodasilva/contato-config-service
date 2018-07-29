@@ -7,4 +7,5 @@ spring:
     config:
       server:
         git:
-          uri: file:///E:/dev/workspace/contato-config-repo/
+          #uri: file:///E:/dev/workspace/contato-config-repo/
+          uri: /app/config-repo
